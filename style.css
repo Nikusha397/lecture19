@@ -15,7 +15,6 @@ body {
 .main_container {
   max-width: 100%;
   height: 2554px;
-  border: 1px solid black;
 }
 
 .box_one {
@@ -151,7 +150,7 @@ h2 {
   font-size: 22px;
   line-height: 32px;
   letter-spacing: 0px;
-  color: rgba(68, 68, 68, 0.8);
+  color: rgba(255, 255, 255, 0.8);
 }
 
 h3 {
@@ -187,7 +186,7 @@ h3 {
   font-size: 18px;
   line-height: 28px;
   letter-spacing: 0px;
-  color: rgba(68, 68, 68, 0.8);
+  color: rgba(255, 255, 255, 0.8);
 }
 
 h4 {
